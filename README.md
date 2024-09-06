@@ -12,7 +12,7 @@ Este é o projeto final do curso, onde basicamente a base de dados é a mesma da
 ## 📷 Imagens do Projeto
 ![image](https://github.com/user-attachments/assets/b8cd16b5-4938-4817-93f2-df56befc6ec7)
 ![image](https://github.com/user-attachments/assets/25a602a3-ceea-4976-92ab-70c2ac88e5f0)
-![image](https://github.com/user-attachments/assets/e6069924-c1e8-401f-bf98-d2117ca30f80)
+![image](https://github.com/user-attachments/assets/151ff09d-4f91-4061-afe3-8cfc7c4fbe4e)
 ![image](https://github.com/user-attachments/assets/da0526e7-0446-46d6-9918-478e4c06bff9)
 
 
